@@ -1,5 +1,5 @@
 
-### <div align="center"> 👋I'm Harsh  a full-time Frontend  Developer 👨‍💻 and a Competitive Coder.</div>  
+### <div align="center"> <h1>👋I'm Harsh  a full-time Frontend  Developer 👨‍💻 and a Competitive Coder.</h1></div>  
   
 
 - *🔭 I’m currently working on Frontend  Web development projects.😎*  
